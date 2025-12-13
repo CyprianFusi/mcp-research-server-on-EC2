@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/CyprianFusi/MCP-rag-with-Chromadb/main/assets/binati_logo.png" alt="BINATI AI Logo" width="75"/>
 
-  # Research Assistant MCP Server - Deployed on EC2
-
   _By **BINATI AInalytics**_
 </div>
 
